@@ -12,6 +12,8 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Hello GITHUB!?"); //hej
             Console.ReadLine();
+
+            int number == 0;
         }
     }
 }
